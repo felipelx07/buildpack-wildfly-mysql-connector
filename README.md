@@ -4,9 +4,12 @@ Simple script for download and configure Wildlfy Application Server + download a
 Ready to use! 
 
 ## Usage
-1. Run /bin/run.sh file
 
-2. Set the MySQL env variables:
+1. Clone this project
+
+2. Run /bin/run.sh file
+
+3. Set the MySQL env variables:
 - MYSQL_DB_HOST # e.g. jdbc:mysql://{HOST}:3306/{DATABASE}?useLegacyDatetimeCode=false&serverTimezone=UTC
 - MYSQL_DB_USER # e.g. root
 - MYSQL_DB_PASS # e.g. root
