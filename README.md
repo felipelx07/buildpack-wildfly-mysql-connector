@@ -1,6 +1,7 @@
 # Wildfly Buildpack + MySQL module JDBC
 
-Simple script for download and configure Wildfly Application Server + download and install MySQL Module Into. 
+Simple buildpack script for download and configure Wildfly Application Server + download and install MySQL Module Into. 
+Based on Linux shell.
 
 Ready to use! 
 
